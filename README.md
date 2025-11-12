@@ -66,7 +66,7 @@ HTML, CSS, JS
 
 
 6. **UNO DE LOS MAYORES DESAFÍOS EN POLÍTICA PÚBLICA**  
-**wEB:** https://marchnav.github.io/sistema-salud/
+**Web:** https://marchnav.github.io/sistema-salud/
 
 
 ---
