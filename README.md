@@ -65,6 +65,9 @@ HTML, CSS, JS
    **Repo:** https://github.com/marchnav/M7_EVALUACION_MODULO_INVENTARIO_DJANGO
 
 
+6. **UNO DE LOS MAYORES DESAFÍOS EN POLÍTICA PÚBLICA**  
+**wEB:** https://marchnav.github.io/sistema-salud/
+
 
 ---
 
