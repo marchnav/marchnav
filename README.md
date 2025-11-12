@@ -6,15 +6,19 @@
 
 ---
 
-## 👋 Presentación breve
+## 👋 Bienvenid@
 
 Soy **Marcelo Navarrete**, Ingeniero en Administración Pública, director ejecutivo en **dataprospectiva.cl**, profesional con sólida formación en formulación y evaluación de proyectos, gestión presupuestaria, compras públicas y desarrollo de soluciones digitales. Me mueven los productos útiles: claros, seguros y medibles. Aplico criterios de política pública y compliance para que la tecnología no solo funcione, sino que cumpla y genere valor real para personas y organizaciones.
 
 Filosofía: orientar cada decisión a valor público y de negocio, con evidencia, gobernanza, criterio y responsabilidad. Ética sin atajos, equipos cuidados y mejora continua como sistema, no como evento.
 
+- 👉🏼 https://marchnav.github.io/M8_AE1_PORTAFOLIO/
 - 🌎 Valdivia, Chile
-- 🎯 Intereses: seguridad aplicada, automatización ligera, UX limpia, cumplimiento normativo (Chile)
-- 📫 Contacto: [LinkedIn]https://www.linkedin.com/feed/ · 📧contacto@dataprospectiva.cl · 🌎https://dataprospectiva.cl
+- 🎯 Intereses: SOLUCIONAR PROBLEMAS PÚBLICOS Y APORTAR VALOR SOCIAL A TRAVES DEL USO DE IA🤖, además de seguridad aplicada, automatización ligera, UX limpia, cumplimiento normativo   chileno
+- 📫 Contáctame en :
+  📣https://www.linkedin.com/feed/
+  📧contacto@dataprospectiva.cl 
+  🌎https://dataprospectiva.cl
 
 
 
