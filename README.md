@@ -71,7 +71,7 @@ HTML, CSS, JS
 
 ---
 
-## 🛠️ Tecnologías que domino
+## 🛠️ Tecnologías que utilizo
 
 **Backend / Core**
 - Python 3 · Django 5 · Django Admin · DRF (básico)  
