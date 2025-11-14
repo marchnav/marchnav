@@ -12,7 +12,7 @@ Soy **Marcelo Navarrete**, Ingeniero en Administración Pública, director ejecu
 
 Filosofía: orientar cada decisión a valor público y de negocio, con evidencia, gobernanza, criterio y responsabilidad. Ética sin atajos, equipos cuidados y mejora continua como sistema, no como evento.
 
-- 👉🏼 https://marchnav.github.io/M8_AE1_PORTAFOLIO/
+- 👉🏼 https://marchnav.github.io/M8_AE1_PORTAFOLIO/ 👈🏼
 - 🌎 Valdivia, Chile
 - 🎯 Intereses: SOLUCIONAR PROBLEMAS PÚBLICOS Y APORTAR VALOR SOCIAL A TRAVES DEL USO DE IA🤖, además de seguridad aplicada, automatización ligera, UX limpia, cumplimiento normativo   chileno
 - 📫 Contáctame en :
